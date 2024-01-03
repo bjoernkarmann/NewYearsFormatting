@@ -8,8 +8,7 @@ Set up for fresh Macbook by Bjørn Karmann
 - Spotify
 - Sonos
 - Spark Desktop
-- Rectangle (window management)
-- Unarchiver
+
 - NordVPN
 ---
 - Visual Studio Code
@@ -22,3 +21,7 @@ Set up for fresh Macbook by Bjørn Karmann
 - Fusion 360
 - Gifski
 - After Effects
+---
+- Rectangle (window management)
+- Unarchiver
+- NUT (https://github.com/blawar/nut?tab=readme-ov-file#installation-guide)
